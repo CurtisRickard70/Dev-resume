@@ -1,6 +1,108 @@
-<a href=:"view-source:https://www.linkedin.com/in/curtis-rickard-225056101/" target="_blank"><img src=https://media.licdn.com/dms/image/C4D03AQFs1POzcrXG2g/profile-displayphoto-shrink_800_800/0/1619911597830?e=1715212800&v=beta&t=6nXb2J22hxiCmwpZtG3gCi74fCG7P77tnIVggLzf63c style="width 50px;height 50px" alt="Curtis Rickard">
-        </a>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Curtis Rickard Resume</title>
+    <style>
+        h2 {
+            border: solid 2px red;
+        }
+
+        section,
+        footer {
+            border: solid 2px black;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div style="color:#0000FF">Wandering Rickard Developers LLC</div>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a> </li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <a href='http://www.mozilla.org' target="_blank">Use Mozilla!</a>
+                    <h1>Curtis Rickard</h1>
+                    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" :target="_blank"><img src=https://media.licdn.com/dms/image/C4D03AQFs1POzcrXG2g/profile-displayphoto-shrink_800_800/0/1619911597830?e=1715212800&v=beta&t=6nXb2J22hxiCmwpZtG3gCi74fCG7P77tnIVggLzf63c style="width: 100px" alt="Curtis Rickard">
+                    </a>
+                </td>
+                <td>
+                    <p>I enjoy <b>coding</b> and <em>living full time</em> in our <b>RV</b><br> I will continue to <em>keep trying tto learn code code</em> One day at a <strong>TIME</strong></p>
+                </td>
+            </tr>
+        </table>
+        <hr color=#0000FF>
+        <h2>Experience</h2>
+        <ul>
+            <li>Internet Support</li>
+            <li>Technical support</li>
+            <li>Networking</li>
+            <li>Web Developer</li>
+            <li>Network Security</li>
+        </ul>
+        <hr color=#0000FF>
+        <p><b>Please</b> do try this <strong>today!</strong></p>
+
+        <!--strong and bold can look the same but they are different elements in HTML5 -->
 
 
-        <p>I enjoy <b>coding</b> and <em>living full time</em> in our <b>RV</b><br> I will continue to <em>keep trying tto learn code code</em> One day at a <strong>TIME</strong></p>
-        <hr color=#7FFF00>
+        <p>IMAGE</p>
+
+        <article>
+
+            <h2>This is a website that I am goiong to be developing</h2>
+
+            <p>This is a website that i will be developing over the next several weeks while on my front end dev journey; <mark>Come along as I build and learn!!</mark> </p>
+        </article>
+    </section>
+    <section>
+        <ol>
+            <li>Primum in nostrane potestate est, quid meminerimus?</li>
+            <li>A quibus propter discendi cupiditatem videmus ultimas terras esse peragratas.</li>
+        </ol>
+    </section>
+    <!--Add more content-->
+    <p>
+    <aside>
+        <strong>HELP!
+        </strong>
+        Let me know if you have any questions.
+    </aside>
+    </p>
+
+
+
+
+
+
+    <footer>
+        <div>
+            Contact me
+            <address>Contact me
+                <a href="mailto:curtisrickard70@gmail.com">
+                    Contact Curtis Rickard</a>
+                <a href="tel:229-457-0335">229-457-0335</a>
+
+            </address>
+        </div>
+    </footer>
+</body>
+
+
+
+
+</html>
